@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 function App() {
     return (
-      <div className="navbar bg-blue-600">
+      <div className="navbar bg-violet-600">
         <div className="container flex mx-auto items-center">
           <div className="w-3/12">
             <div className="logo text-pink text-2xl text-center uppercase font-semibold">ilham</div>
